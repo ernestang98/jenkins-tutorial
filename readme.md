@@ -137,3 +137,8 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
+
+
+
+Jenkins CI/CD DevOps training stuff:
+- need to install build pipeline plugin
