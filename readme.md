@@ -140,5 +140,6 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 
 
-Jenkins CI/CD DevOps training stuff:
+# Jenkins CI/CD DevOps training stuff:
 - need to install build pipeline plugin
+- https://plugins.jenkins.io/build-pipeline-plugin/
