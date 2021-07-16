@@ -1,3 +1,10 @@
+# MY EDIT: Jenkins CI/CD DevOps training stuff:
+- Need to install build pipeline plugin
+- https://plugins.jenkins.io/build-pipeline-plugin/
+- Run Jenkins locally and view pipeline built manually
+- Can also refer to history builds/logs to see details of pipelines and what they do
+
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
@@ -134,12 +141,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-reactjs]: https://github.com/spring-petclinic/spring-petclinic-reactjs
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
-
-
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
-
-
-
-# Jenkins CI/CD DevOps training stuff:
-- need to install build pipeline plugin
-- https://plugins.jenkins.io/build-pipeline-plugin/
