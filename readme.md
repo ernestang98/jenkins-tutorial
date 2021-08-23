@@ -20,4 +20,5 @@
 3. Pipeline linking Test Stage (SpringPetClinicPipeline) - using plugin
 4. Multi-Staged Pipeline using Scripted Pipeline
 5. Multi-Staged Pipeline using Declarative Pipeline
-6. Multi-Staged Pipeline using Declarative Pipeline specified GitHub
+6. Multi-Staged Pipeline using Declarative Pipeline specified on GitHub
+7. [Screenshots of pipelines](https://github.com/ernestang98/jenkins-tutorial/issues/1)
