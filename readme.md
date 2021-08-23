@@ -8,3 +8,4 @@
 # Application base: 
 - Spring PetClinic Sample Application 
 - https://github.com/spring-projects/spring-petclinic
+- https://www.coursera.org/projects/cicd-using-jenkins
