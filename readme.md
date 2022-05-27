@@ -10,13 +10,11 @@
 
 - Repository name change, take note and apply changes accordingly
 
-# Application base: 
+# Get Started: 
 
-- Spring PetClinic Sample Application 
+- [Coursera Guided Project](https://www.coursera.org/projects/cicd-using-jenkins)
 
-- https://github.com/spring-projects/spring-petclinic
-
-- https://www.coursera.org/projects/cicd-using-jenkins
+- [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic)
 
 # Start Jenkins Server:
 
