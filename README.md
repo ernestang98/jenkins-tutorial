@@ -32,7 +32,7 @@
 
 ![](./assets/Single%20Test%20Stage%20%28SpringPetClinicTest%29.png)
 
-3. Pipeline linking Test Stage (SpringPetClinicPipeline) - using [build pipeline plugin](https://plugins.jenkins.io/build-pipeline-plugin/)
+3. Pipeline linking Compile Stage + Test Stage (SpringPetClinicPipeline) - using [build pipeline plugin](https://plugins.jenkins.io/build-pipeline-plugin/)
 
 ![](./assets/Pipeline%20linking%20Test%20Stage%20%28SpringPetClinicPipeline%29%20-%20using%20plugin.png)
 
